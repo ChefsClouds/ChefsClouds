@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ChefsClouds
-- 👀 I’m interested in looking for people, help me a WeChat miniprogram
+- 👀 I’m   looking for students and proffesionals , help me building a  WeChat miniprogram
